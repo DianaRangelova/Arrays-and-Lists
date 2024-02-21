@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HS9r4noTgdHMYk/+4Xd62Tb5EwztPXqc7/2W8Jhb4NjdAXhY8oBcsIbINiL+5v7LgQ7JVdpFp27JNFobiC+w7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Arrays-and-Lists\\P04-Bomb-Numbers\\P04-Bomb-Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

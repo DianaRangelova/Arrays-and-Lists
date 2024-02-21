@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SLBC7syK9Ni7EsuqKCnPEIyKfeJ+bzp9l/KA0zSZ1mYACfRWk76WDRsCieKsUK/m47I/0mhZ0IaTvC6EuJ6sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Arrays-and-Lists\\P05-Zig-Zag-Arrays\\P05-Zig-Zag-Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

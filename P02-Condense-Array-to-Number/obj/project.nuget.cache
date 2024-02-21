@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TOk9TwWYzxMObFSKWZYg8S7UEZGWuuxd6xRb11wh4KYYxCxvMh5WF5gH6pTauGmXpjtQz5xB1OCI4ac7P8xrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Arrays-and-Lists\\P02-Condense-Array-to-Number\\P02-Condense-Array-to-Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
